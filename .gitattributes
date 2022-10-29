@@ -1,1 +1,2 @@
 *.yml linguist-language=Ruby
+*.bash linguist-language=Bash
